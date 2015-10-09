@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -g   -shared -Wl,-soname,libdistance.so -o ../lib/libdistance.so CMakeFiles/distance.dir/distance.cpp.o -L/usr/local/lib 

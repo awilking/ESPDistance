@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -g   -shared -Wl,-soname,libdistance+'.'+distance_MAJOR_VERSION.so -o "../lib/libdistance+'.'+distance_MAJOR_VERSION.so" "CMakeFiles/distance+'.'+distance_MAJOR_VERSION.dir/distance.cpp.o" -L/usr/local/lib 

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/awilking/src/C++/ESPDistance/src/distance.cpp
+math.h
+-
+vector
+-
+DataValue.hpp
+/home/awilking/src/C++/ESPDistance/src/DataValue.hpp
+
+src/../inc/DataValue.hpp
+win_stdint.hpp
+src/../inc/win_stdint.hpp
+stdint.h
+-
+stdio.h
+-
+string.h
+-
+time.h
+-
+algorithm
+-
+

@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../lib/libsdistance.a  CMakeFiles/sdistance.dir/distance.cpp.o
+/usr/bin/ranlib ../lib/libsdistance.a
